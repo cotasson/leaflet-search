@@ -125,6 +125,7 @@ This list is intended to be of utility for all developers who are looking web ma
 
 *(spamming urls will be automatically deleted)*
 
+* [Live Wind & Rain radars](https://parapente-mexico.com/balise-ffvl/) 
 * [NMEA Generator](https://nmeagen.org/)
 * [Pouemes](http://pouemes.free.fr)
 * [Folium](https://github.com/python-visualization/folium)
